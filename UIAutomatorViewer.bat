@@ -1,0 +1,1 @@
+java -cp ./libs/* com.android.uiautomator.UiAutomatorViewer
